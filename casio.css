@@ -1,0 +1,28 @@
+#button1{
+    background-color: aliceblue;
+    border:none;
+    font-size: 60px;
+    width: 60px;
+    height: 90px;
+}
+
+#tb{
+    height: 75px;
+    font-size: 30px;
+}
+table{
+    margin-left:auto; 
+    margin-right:auto;
+    padding: 10px;
+    border-radius:20px ;
+}
+td{
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: clamp(2rem, 1rem +10vw, 7rem);
+}
+h1:hover{
+    background-color: rgb(251, 246, 245);
+}
